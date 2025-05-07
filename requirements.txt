@@ -1,0 +1,9 @@
+streamlit
+requests
+folium
+streamlit-folium
+plotly
+pandas
+numpy
+tensorflow
+scikit-learn
